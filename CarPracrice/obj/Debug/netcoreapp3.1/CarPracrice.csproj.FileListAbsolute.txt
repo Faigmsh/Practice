@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\bin\Debug\netcoreapp3.1\CarPracrice.exe
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\bin\Debug\netcoreapp3.1\CarPracrice.deps.json
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\bin\Debug\netcoreapp3.1\CarPracrice.runtimeconfig.json
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\bin\Debug\netcoreapp3.1\CarPracrice.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\bin\Debug\netcoreapp3.1\CarPracrice.dll
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\bin\Debug\netcoreapp3.1\CarPracrice.pdb
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\obj\Debug\netcoreapp3.1\CarPracrice.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\obj\Debug\netcoreapp3.1\CarPracrice.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\obj\Debug\netcoreapp3.1\CarPracrice.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\obj\Debug\netcoreapp3.1\CarPracrice.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\obj\Debug\netcoreapp3.1\CarPracrice.dll
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\obj\Debug\netcoreapp3.1\CarPracrice.pdb
+C:\Users\Acer\source\repos\ClassPractice\CarPracrice\obj\Debug\netcoreapp3.1\CarPracrice.genruntimeconfig.cache
